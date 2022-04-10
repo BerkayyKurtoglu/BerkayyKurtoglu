@@ -16,6 +16,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### About Me :
+This section is just cominggg.... 🤙
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -27,6 +31,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 </div>
+
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayyKurtoglu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **BerkayyKurtoglu/BerkayyKurtoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
