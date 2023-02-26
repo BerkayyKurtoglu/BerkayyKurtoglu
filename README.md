@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/berkay-kurto%C4%9Flu-709986190/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/berkayy_kurtoglu/">
-    <img src="https://img.shields.io/badge/Instagram-violetblue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+
 </div>
 
 <h1 align="center">
@@ -17,8 +15,9 @@
 </h1>
 
 ### About Me :
-This section is just cominggg.... 🤙
+A computer engineering student who has been interested in electrical and computer-based systems since childhood and loves to learn by self-exploration. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayyKurtoglu&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -33,8 +32,7 @@ This section is just cominggg.... 🤙
 </div>
 
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayyKurtoglu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
