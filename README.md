@@ -2,13 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/berkay-kurto%C4%9Flu-709986190/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-</div>
-
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -18,6 +11,11 @@
 A computer engineering student who has been interested in electrical and computer-based systems since childhood and loves to learn by self-exploration. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayyKurtoglu&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-kurtoglu/)
+
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
